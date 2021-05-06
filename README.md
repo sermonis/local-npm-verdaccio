@@ -1,4 +1,4 @@
-#[Локальный NPM репозиторий за 5 минут со своими пакетами и кэширование](https://habr.com/ru/post/427069/)
+# [Локальный NPM репозиторий за 5 минут со своими пакетами и кэширование](https://habr.com/ru/post/427069/)
 ![verdaccio logo](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
 
 ![verdaccio gif](https://cdn.verdaccio.dev/readme/readme-website.png)
