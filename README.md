@@ -1,8 +1,9 @@
+#[Локальный NPM репозиторий за 5 минут со своими пакетами и кэширование](https://habr.com/ru/post/427069/)
 ![verdaccio logo](https://cdn.verdaccio.dev/readme/verdaccio@2x.png)
 
 ![verdaccio gif](https://cdn.verdaccio.dev/readme/readme-website.png)
 
-# Version 6 (Development branch)
+## Version 6 (Development branch)
 
 > Looking for Verdaccio 5? Check branch `5.x`.
 
